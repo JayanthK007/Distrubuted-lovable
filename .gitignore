@@ -1,0 +1,44 @@
+# Compiled output
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# Build directories
+target/
+build/
+out/
+bin/
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.eclipse/
+.settings/
+.classpath
+.project
+.factorypath
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+
+# Gradle
+.gradle/
+gradle-wrapper.jar
+
+# Logs & temp
+*.log
+*.tmp
+*.temp
+hs_err_pid*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+.env
